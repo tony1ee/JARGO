@@ -9,7 +9,7 @@ Commanding the Toyota HSR to pick up object using text commands.
 [![Project Showcase & Demo](thumbnail.png)](https://www.youtube.com/watch?v=cWky8y4daVY)
 
 # Motivation
-Helping people with limited motor functions has always been a target use case for the robotics field. However, using traditional control methods usually requires professoinal training. In this project, we use the Toyota Human Support Robot (HSR) as the platform, and implemented a way to **use textual instrucitons to command the robot** for simple tasks like fetching an object.
+Helping people with limited motor functions has always been a target use case in robotics field. However, using traditional control methods usually requires professoinal training. In this project, we use the Toyota Human Support Robot (HSR) as the platform, and implemented a way to **use textual instrucitons to command the robot** for simple tasks like fetching an object.
 
 # Understanding Textual Instructions
 Natural language commands usually contains ambiguities and cannot be understood directly by computers. In cyber-physical systems, Signal Temporal Logic (STL)is a way to formalize control properties with time constraints. For conversion from natural language commands to STLs, we used [DialogueSTL](https://arxiv.org/abs/2207.00627). 
