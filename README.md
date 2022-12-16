@@ -1,5 +1,5 @@
 # JARGO
-Just Another Robot Grabbing Object
+Just Another Robot Grabbing Objects
 
 J.A.R.G.O is a [CSCI-513 Autonomous Cyber-Physical System](https://jdeshmukh.github.io/teaching/cs513-autocps-fall-2022/index.html) group project.
 
